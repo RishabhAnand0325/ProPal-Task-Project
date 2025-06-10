@@ -27,11 +27,19 @@ First the program records your Audio by using Souddevice python library then Tra
 
 After Transcribing, it generates a conversation line according to the transcript using Google Gemini API.
 
-After Generating a dialouge, it ask whether to continue the conversation
+After Generating a dialouge, the text is then converted into audio using Eleven Labs API.
+
+After that, the audio is then played automatically using pygame python library.
+
+After that, it ask whether to continue the conversation or not
 
 ![Screenshot 2025-06-10 181207](https://github.com/user-attachments/assets/47497a2f-b73a-4aa6-a9fe-72fc6bff1f14)
 
 When we press ("no") the program  gets exited as shown above
+
+Here, a demo video for my task
+
+[demo-video-1.zip](https://github.com/user-attachments/files/20673751/demo-video-1.zip)
 
 
 
