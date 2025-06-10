@@ -35,7 +35,7 @@ After that, it ask whether to continue the conversation or not
 
 ![Screenshot 2025-06-10 181207](https://github.com/user-attachments/assets/47497a2f-b73a-4aa6-a9fe-72fc6bff1f14)
 
-When we press ("no") the program  gets exited as shown above
+When we press ("n") the program  gets exited as shown above
 
 Here, a demo video for my task
 
